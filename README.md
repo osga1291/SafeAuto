@@ -1,12 +1,12 @@
-# SafeAuto Project
-# By: Oscar Gandara
-# A Project to read driver data from a text file, gives the user functionality to manipulate it, and it updated the text file accordingly.
+SafeAuto Project
+By: Oscar Gandara
+A Project to read driver data from a text file, gives the user functionality to manipulate it, and it updated the text file accordingly.
 
-#To move in to proper directory: cd SafeAuto/src/main/java
-#To compile in terminal: javac *.java
-#To run in terminal: java main
+To move in to proper directory: cd SafeAuto/src/main/java
+To compile in terminal: javac *.java
+To run in terminal: java main
 
-### User Functions ###
+User Functions
 
 
 Creating a new ConsoleApp class:
