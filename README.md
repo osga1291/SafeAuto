@@ -6,7 +6,7 @@ To move in to proper directory: cd SafeAuto/src/main/java
 To compile in terminal: javac *.java
 To run in terminal: java main
 
-User Functions
+### User Functions ###
 
 
 Creating a new ConsoleApp class:
