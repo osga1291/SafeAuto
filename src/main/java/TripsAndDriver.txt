@@ -1,0 +1,13 @@
+Driver,Dan
+Driver,Alex
+Driver,Stacy
+Driver,Mike
+Driver,Bob
+Driver,Charlie
+Driver,Oscar
+Trip,0,Dan,05-11-2020-18:45,05-12-2020-00:45,215
+Trip,1,Dan,05-13-2020-06:00,05-14-2020-06:15,10
+Trip,2,Alex,05-14-2020-02:00,05-14-2020-03:00,30
+Trip,8,Stacy,05-11-2020-18:45,05-12-2020-00:45,350
+Trip,10,Stacy,03-11-2020-18:45,05-12-2020-00:45,10
+Trip,9,Oscar,05-10-2020-18:45,05-10-2020-20:45,100
